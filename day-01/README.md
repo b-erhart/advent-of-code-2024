@@ -6,6 +6,3 @@
 ```bash
 go run main.go
 ```
-
-## Calendar
-![Current calendar state](calendar-state.png)
